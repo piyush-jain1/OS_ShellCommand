@@ -1,31 +1,3 @@
-************** CS341 - OS : Assignment 1 *******************
-
-************************************************************
-
-Group 1
-
-Name 1 : PIYUSH JAIN , Roll : 150101046 
-Name 2 : TURKHADE HRUSHKESH PRAMOD , Roll : 150123044 
-Name 3 : ADITYA SINGH RATHORE , Roll : 150123003
-
-***************************************************************************************
-COLLECTIVE CONTRIBUTION
-Everyone contributed in designing the core structure of the program. Codes were written individually as well as collectively.
-
-INDIVUDUAL CONTRIBUTION
-
-1.PIYUSH JAIN
-Wrote code for main loop, split_line, launch, execute and functions for 'history' and builtin commands.
-
-2. TURKHADE HRUSHKESH PRAMOD
-Wrote code for helper functions str_copy and functions for 'exectl','issue' and 'rmexcept' command.
-
-3. ADITYA SINGH RATHORE
-Wrote code for helper functions save_command, is_avail,  and functions for 'cd','exit' command.
-
-****************************************************************************************
-
-****************************************************************************************
 
 The Overall structure :
 
